@@ -2,7 +2,7 @@
 Insert Cut for 3D printing for Blender 2.82
 
 Usage:
-Install the addon
+Install the addon </p>
 Select two mesh object
 The Active Object is the cutted object
 The other is the cutting object
